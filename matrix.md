@@ -17,6 +17,7 @@ Now we come at the main issue. The algorithms had to match the labels provided b
 That's why I dicided to put the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) online.
 The idea would be to allow people to comment on the predictions made by the algorihtm and the labels given by the docters. All in all we might get a better feel about the practical use of automatic screening. Perhaps github is not ideal for this. if you got a better platform.. Please feel free to fork it an make a better experience !
 
+
 *Rows : Labels given by doctors*<br>
 *Columns : Predicted labels by algorithm*<br>
 
